@@ -10,6 +10,8 @@ I'm a passionate software developer and tech enthusiast. Welcome to my GitHub pr
 ## 📊 GitHub Stats
 
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maheshsumb&show_icons=true&count_private=true&hide=stars&theme=radical)
+## 📊 My Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maheshsumb&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🌐 Connect with Me
 
