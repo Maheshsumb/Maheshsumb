@@ -42,8 +42,8 @@ I'm a passionate software developer and tech enthusiast. Welcome to my GitHub pr
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahesh-sumb)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/MaheshSumb25275)
-[![Website](https://img.shields.io/badge/Portfolio-000?style=flat&logo=react&logoColor=white)](https://yourportfolio.com)
-
+<!--[![Website](https://img.shields.io/badge/Portfolio-000?style=flat&logo=react&logoColor=white)](https://yourportfolio.com)
+-->
 ## 🤝 Let's Collaborate
 
 Feel free to reach out if you have any questions, suggestions, or just want to say hi! I'm always open to collaboration and new opportunities.
