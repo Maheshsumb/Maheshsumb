@@ -1,51 +1,87 @@
-# Hi there! 👋 I'm Mahesh Sumb
+<h1 align="center">Hi, I'm Mahesh Sumb 👋</h1>
+<h3 align="center">Computer Engineering Graduate · Full Stack / Backend Developer · Exploring Agentic AI</h3>
 
-I'm a passionate software developer and tech enthusiast. Welcome to my GitHub profile! Feel free to explore my projects and contributions.
+<p align="center">
+  <a href="https://www.linkedin.com/in/mahesh-sumb/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://mahehsumb.in"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" /></a>
+  <a href="https://yugdrishti.online"><img src="https://img.shields.io/badge/YugDrishti_Media-FF6F00?style=flat&logo=googleads&logoColor=white" /></a>
+  <a href="mailto:maheshsumbpatil87@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+</p>
 
-## 🔧 Technologies & Tools
+---
 
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
-![HQL](https://img.shields.io/badge/HQL-59666C?style=flat&logo=hibernate&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+### 🎯 About Me
 
+- 🎓 Computer Engineering graduate (2026), Dr. DY Patil College of Engineering and Innovation, Pune — CGPA 8.24
+- 💼 Actively looking for **Software Engineer / Full Stack / Backend / AI-Agentic** roles (fresher/trainee level)
+- 🛠️ Comfortable across the stack: Java/Spring Boot on the backend, React on the frontend, and increasingly building with LLM-based agent architectures
+- 📈 Also run **YugDrishti Media**, a freelance digital marketing venture — market research, content strategy, and client proposals
+- 📫 Reach me at **maheshsumbpatil87@gmail.com**
 
+---
 
+### 🚀 Featured Projects
 
+| Project | Description | Stack |
+|---|---|---|
+| **[AgentiQ](https://github.com/Maheshsumb/AgentiQ)** | A ReAct-style multi-step reasoning agent with a planning loop, three tools (AST-restricted calculator, Wikipedia lookup, scratchpad), and a pytest evaluation harness | Python, LLM tool-use |
+| **[PageMind](https://github.com/Maheshsumb/PageMind)** | Chrome extension implementing a RAG pipeline to let users query the content of any webpage | FastAPI, FAISS, OpenAI API, sentence-transformers |
+| **Kronos API** | Academic Management System with JWT authentication, role-based access control (Admin/Faculty), and full CRUD for users, students, subjects & attendance | Java, Spring Boot, Hibernate, MySQL, Docker |
+| **[ScholarWell](https://github.com/Maheshsumb/ScholarWell)** | Student productivity platform for task management, sleep tracking, attendance, and academic progress | Node.js, Express.js, PostgreSQL |
+| **Snoop** | AI-based exam invigilation system — research paper published in IJFMR (March 2026) | Python, ML |
+| **[E-commerce App](https://github.com/Maheshsumb/E-commerce_using_React)** | Full front-end e-commerce clone | React.js, Bootstrap |
 
-## 📊 GitHub Stats
+---
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maheshsumb&show_icons=true&count_private=true&hide=stars&theme=radical)
-## 📊 My Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maheshsumb&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Maheshsumb&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+### 🧰 Tech Stack
 
-## 🚀 Featured Projects
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=Maheshsumb&repo=E-commerce_using_React&theme=radical)](https://github.com/Maheshsumb/E-commerce_using_React)   &nbsp; [![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=Maheshsumb&repo=ScholarWell&theme=radical)](https://github.com/Maheshsumb/ScholarWell)
+**Languages:** ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
 
+**Backend:** ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
 
-## 🌐 Connect with Me
+**Frontend:** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahesh-sumb)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/MaheshSumb25275)
-<!--[![Website](https://img.shields.io/badge/Portfolio-000?style=flat&logo=react&logoColor=white)](https://yourportfolio.com)
--->
-## 🤝 Let's Collaborate
+**Databases:** ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-Feel free to reach out if you have any questions, suggestions, or just want to say hi! I'm always open to collaboration and new opportunities.
+**Cloud & DevOps:** ![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
-Happy coding! 🚀
+**AI / Agentic:** ![OpenAI](https://img.shields.io/badge/-OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white) ![FAISS](https://img.shields.io/badge/-FAISS-0467DF?style=flat-square) ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+**Tools:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+
+---
+
+### 📜 Certifications
+
+- Google Cloud Arcade — 20+ badges (Terraform, Kubernetes/GKE, DevOps, Cloud Operations, Networking, Load Balancing)
+- Kiran Academy — Java Full Stack
+- NPTEL — Programming in Java
+- Udemy — CSS/Bootstrap/JS, Python, ReactJS, Git for Beginners
+- LinkedIn Learning — Introduction to LLMs
+- Hugging Face — AI Agents Fundamentals
+- Cisco Cybersecurity (AICTE Virtual Internship)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=Maheshsumb&show_icons=true&count_private=true&hide=stars&theme=radical" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Maheshsumb&layout=compact&theme=radical" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Maheshsumb&theme=radical" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=Maheshsumb&theme=darkhub" height="150"/>
+</p>
+
+---
+
+### 🤝 Let's Connect
+
+I'm actively open to full-time and freelance opportunities in software engineering, full-stack development, and AI/agentic engineering. Feel free to reach out — always happy to talk shop, collaborate, or just say hi!
+
+<p align="center"><i>Happy coding! 🚀</i></p>
