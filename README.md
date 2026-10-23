@@ -1,22 +1,23 @@
 <h1 align="center">Hi, I'm Mahesh Sumb 👋</h1>
-<h3 align="center">Computer Engineering Graduate · Full Stack / Backend Developer · Exploring Agentic AI</h3>
+<h3 align="center">1st AI Engineer | Agentic AI | Full Stack Developer | B.E Computer 2026 (8.13)</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mahesh-sumb/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://mahehsumb.in"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" /></a>
   <a href="https://yugdrishti.online"><img src="https://img.shields.io/badge/YugDrishti_Media-FF6F00?style=flat&logo=googleads&logoColor=white" /></a>
-  <a href="mailto:maheshsumbpatil87@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:maheshsumb.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
 ### 🎯 About Me
 
-- 🎓 Computer Engineering graduate (2026), Dr. DY Patil College of Engineering and Innovation, Pune — CGPA 8.24
-- 💼 Actively looking for **Software Engineer / Full Stack / Backend / AI-Agentic** roles (fresher/trainee level)
-- 🛠️ Comfortable across the stack: Java/Spring Boot on the backend, React on the frontend, and increasingly building with LLM-based agent architectures
-- 📈 Also run **YugDrishti Media**, a freelance digital marketing venture — market research, content strategy, and client proposals
-- 📫 Reach me at **maheshsumbpatil87@gmail.com**
+- 🎓 B.E. in Computer Engineering (2026), Dr. D. Y. Patil College of Engineering and Innovation, Pune — CGPA 8.13
+- 💼 Passionate about building AI-native systems, agentic workflows, and modern full-stack applications
+- 🛠️ Strong foundation across backend engineering, scalable APIs, and intelligent user experiences
+- 🤖 Working with Agentic AI, LLM orchestration, memory systems, and retrieval workflows
+- 📈 Also run **YugDrishti Media**, a freelance digital marketing venture focused on content strategy and growth
+- 📫 Reach me at **maheshsumb.dev@gmail.com**
 
 ---
 
@@ -24,30 +25,32 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| **[AgentiQ](https://github.com/Maheshsumb/AgentiQ)** | A ReAct-style multi-step reasoning agent with a planning loop, three tools (AST-restricted calculator, Wikipedia lookup, scratchpad), and a pytest evaluation harness | Python, LLM tool-use |
-| **[PageMind](https://github.com/Maheshsumb/PageMind)** | Chrome extension implementing a RAG pipeline to let users query the content of any webpage | FastAPI, FAISS, OpenAI API, sentence-transformers |
-| **Kronos API** | Academic Management System with JWT authentication, role-based access control (Admin/Faculty), and full CRUD for users, students, subjects & attendance | Java, Spring Boot, Hibernate, MySQL, Docker |
-| **[ScholarWell](https://github.com/Maheshsumb/ScholarWell)** | Student productivity platform for task management, sleep tracking, attendance, and academic progress | Node.js, Express.js, PostgreSQL |
-| **Snoop** | AI-based exam invigilation system — research paper published in IJFMR (March 2026) | Python, ML |
-| **[E-commerce App](https://github.com/Maheshsumb/E-commerce_using_React)** | Full front-end e-commerce clone | React.js, Bootstrap |
+| **[AgentiQ](https://github.com/Maheshsumb/AgentIQ)** | ReAct-style multi-step reasoning agent with planning loop, tool use, and structured execution flow | Python, LangChain, LLMs, Prompting, Tool Calling |
+| **[Gitcode](https://github.com/Maheshsumb/Gitcode)** | AI-driven repository knowledge assistant for code understanding, search, and contextual insights | Python, FastAPI, LLM APIs, Embeddings, Retrieval |
+| **[KnowledgeHub.ai](https://github.com/Maheshsumb/KnowledgeHub.ai)** | Knowledge assistant for organizing and querying information through retrieval-augmented workflows | Python, FastAPI, LangChain, FAISS, Vector DB, Prompting |
+| **[PageMind](https://github.com/Maheshsumb/PageMind)** | Chrome extension with a RAG pipeline for querying any webpage content intelligently | FastAPI, FAISS, OpenAI API, Sentence Transformers, Chrome Extension |
+| **[Kronos API](https://github.com/Maheshsumb/Kronos-API)** | Academic management system with JWT auth, RBAC, and CRUD for users, students, subjects, and attendance | Java, Spring Boot, Hibernate, MySQL |
+| **[ScholarWell](https://github.com/Maheshsumb/ScholarWell)** | Student productivity platform for task management, attendance tracking, sleep tracking, and academic progress | Node.js, Express.js, PostgreSQL, Full Stack |
+| **Snoop** | AI-based exam invigilation system with research-backed design and intelligent monitoring | Python, ML, Computer Vision, Research |
+| **[E-commerce App](https://github.com/Maheshsumb/E-commerce_using_React)** | Full front-end e-commerce experience with responsive UI and shopping flow | React.js, Bootstrap, JavaScript |
 
 ---
 
 ### 🧰 Tech Stack
 
-**Languages:** ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+**Languages:** ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**Backend:** ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+**AI / Agentic:** ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square) ![LangGraph](https://img.shields.io/badge/-LangGraph-4B8BBE?style=flat-square) ![LangSmith](https://img.shields.io/badge/-LangSmith-000000?style=flat-square) ![MCP](https://img.shields.io/badge/-MCP-6A5ACD?style=flat-square) ![Embeddings](https://img.shields.io/badge/-Embeddings-00C7B7?style=flat-square) ![Prompting](https://img.shields.io/badge/-Prompting-FF6F61?style=flat-square) ![Vector%20DB](https://img.shields.io/badge/-Vector%20DB-2E7D32?style=flat-square) ![FAISS](https://img.shields.io/badge/-FAISS-0467DF?style=flat-square) ![OpenAI](https://img.shields.io/badge/-OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
 
-**Frontend:** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+**Backend:** ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat-square) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-**Databases:** ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+**Frontend:** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Cloud & DevOps:** ![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+**Databases:** ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-**AI / Agentic:** ![OpenAI](https://img.shields.io/badge/-OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white) ![FAISS](https://img.shields.io/badge/-FAISS-0467DF?style=flat-square) ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+**Cloud & DevOps:** ![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-**Tools:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+**Tools:** ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
 
@@ -82,6 +85,6 @@
 
 ### 🤝 Let's Connect
 
-I'm actively open to full-time and freelance opportunities in software engineering, full-stack development, and AI/agentic engineering. Feel free to reach out — always happy to talk shop, collaborate, or just say hi!
+I'm actively open to opportunities in AI engineering, agentic systems, full-stack development, and backend engineering. Feel free to reach out for collaboration, internships, freelance work, or product discussions.
 
 <p align="center"><i>Happy coding! 🚀</i></p>
