@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mahesh Sumb 👋</h1>
-<h3 align="center">1st AI Engineer | Agentic AI | Full Stack Developer | B.E Computer 2026 (8.13)</h3>
+<h3 align="center">AI Engineer | Agentic AI | Full Stack Developer | B.E Computer 2026 (CGPA 8.13)</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mahesh-sumb/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
